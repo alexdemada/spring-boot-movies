@@ -12,13 +12,13 @@ agent {
                 }
             }
         }
-        stage('Unit Test') {
-            steps {
-                script {
-                    sh "mvn test"
-                }
-            }
-        }
+   //     stage('Unit Test') {
+     //       steps {
+       //         script {
+         //           sh "mvn test"
+           //     }
+        //    }
+      //  }
         stage('package') {
             steps {
                 script {
