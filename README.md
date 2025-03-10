@@ -12,3 +12,5 @@ Attention: h2 est une base de données en mémoire, les données sont perdues à
 -Supprimer un film: il faut donner l'id du film à supprimer (par un formulaire)<br />
   http://localhost:8888/deleteMovie.html<br />
  
+
+hello
